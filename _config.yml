@@ -29,8 +29,7 @@ twitter_username:
 github_username:  wsbraun
 
 # Build settings
-#theme: minima
-theme: jekyll-theme-architect
+theme: minima
 plugins:
   - jekyll-feed
 
