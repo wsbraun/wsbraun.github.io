@@ -17,20 +17,27 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-
+lang: en-ZA
 title: Musings of a mad developer
 #email: wsbraun@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to the home of a mad developer.
   Not much is shown here for now. Hopefully more to come.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://wsbraun.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+author:
+  name: Bill Braun
+  #email: "wsbraun@gmail.com"
 twitter_username:
 github_username:  wsbraun
 linkedin_username: wsbraun
 
+paginate: 5  # amount of posts to show per page
+paginate_path: /page:num/
 # Build settings
-theme: minima
+#theme: minima
+#theme: jekyll-theme-basically-basic
+remote_theme: "mmistakes/jekyll-theme-basically-basic"
 plugins:
   - jekyll-feed
 
@@ -38,8 +45,6 @@ minima:
         skin: solarized
         date_format: "%B %d, %Y"
 site:
-        author: Bill Braun
-        #email: "wsbraun@gmail.com"
 google_analytics: G-3SK1Q0167N
 show_excerpts: true
 # Exclude from processing.

@@ -3,8 +3,6 @@ layout: page
 title: Journey to TryHackMe
 permalink: /learn/tryhackme/
 ---
-# The Journey on TryHackMe
-
 {{ jekyll.enviornment }}
 
 This page is copied from the TryHackMe Blog <https://blog.tryhackme.com/free_path/>

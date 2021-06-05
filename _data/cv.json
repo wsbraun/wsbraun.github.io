@@ -1,0 +1,182 @@
+{
+  "basics": {
+    "name": "Bill Braun",
+    "label": "Software Developer at Dariel",
+    "picture": "",
+    "email": "wsbraun@gmail.com",
+    "phone": "",
+    "website": "",
+    "summary": "Experienced Software Engineer with a demonstrated history of working in the information technology and services industry. Skilled in Hibernate, Java, Integration, XML, and Requirements Analysis. Strong engineering professional with a Bachelor of Engineering (BEng) focused in Computer Engineering from University of Pretoria/Universiteit van Pretoria. ",
+    "location": {
+      "countryCode": "ZAF",
+      "address": "South Africa"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "wsbraun",
+        "url": "https://www.linkedin.com/in/wsbraun/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Dariel",
+      "endDate": "",
+      "highlights": [],
+      "position": "Software Developer",
+      "startDate": "2017-02-28",
+      "summary": null,
+      "website": "https://www.linkedin.com/company/359950"
+    },
+    {
+      "company": "Think Bike Marshals",
+      "endDate": "",
+      "highlights": [],
+      "position": "Accredited Think Bike Marshal",
+      "startDate": "2018-07-31",
+      "summary": null,
+      "website": "https://www.linkedin.com/company/2796267"
+    },
+    {
+      "company": "Tacheyon Technologies",
+      "endDate": "2017-02-28",
+      "highlights": [],
+      "position": "Technology Specialist",
+      "startDate": "2015-11-30",
+      "summary": null,
+      "website": "https://www.linkedin.com/company/6815103"
+    },
+    {
+      "company": "Magna BC",
+      "endDate": "2015-11-30",
+      "highlights": [],
+      "position": "Software Architect",
+      "startDate": "2009-09-30",
+      "summary": "Lead Software Architect for java development.",
+      "website": "https://www.linkedin.com/company/131513"
+    },
+    {
+      "company": "Aricent",
+      "endDate": "2009-09-30",
+      "highlights": [],
+      "position": "Intermediate Software Developer",
+      "startDate": "2005-12-31",
+      "summary": null,
+      "website": "https://www.linkedin.com/company/3229"
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Pretoria/Universiteit van Pretoria",
+      "area": "Computer Engineering",
+      "studyType": "Bachelor of Engineering (BEng)",
+      "startDate": "1998-12-31",
+      "endDate": "2005-12-31",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "University of Pretoria/Universiteit van Pretoria",
+      "area": "",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Java",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Software Engineering",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Software Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Agile Methodologies",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Magna BC",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Hibernate",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Java Enterprise Edition",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JavaScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "XML",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Integration",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Spring Framework",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Web Services",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Requirements Analysis",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Software Design",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft SQL Server",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "en",
+      "fluency": "Native Speaker"
+    }
+  ],
+  "interests": [],
+  "references": []
+}
