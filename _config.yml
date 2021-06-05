@@ -45,7 +45,7 @@ minima:
         skin: solarized
         date_format: "%B %d, %Y"
 site:
-google_analytics: G-3SK1Q0167N
+google_analytics: UA-198830862-1
 show_excerpts: true
 # Exclude from processing.
 # The following items will not be processed, by default.
