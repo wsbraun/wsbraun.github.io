@@ -19,7 +19,7 @@ This is a basic list of free rooms that I have completed
 - [👍] Intro to Researching <https://tryhackme.com/room/introtoresearch>
 - [👍] The Hacker Methodology <https://tryhackme.com/room/hackermethodology>
 - [👍] Learn Linux <https://tryhackme.com/module/linux-fundamentals>
-- [ ] Crash Course Pentesting <https://tryhackme.com/room/ccpentesting>
+- [⏳] Crash Course Pentesting <https://tryhackme.com/room/ccpentesting>
 
 **Introductory CTFs to get your feet wet**
 
