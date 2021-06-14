@@ -24,7 +24,7 @@ This is a basic list of free rooms that I have completed
 **Introductory CTFs to get your feet wet**
 
 - [👍] Google Dorking <https://tryhackme.com/room/googledorking>
-- [ ] OHsint <https://tryhackme.com/room/ohsint>
+- [👍] OHsint <https://tryhackme.com/room/ohsint>
 - [ ] Shodan.io <https://tryhackme.com/room/shodan>
 
 # Level 2 - Tooling
