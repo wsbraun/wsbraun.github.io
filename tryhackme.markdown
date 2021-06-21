@@ -28,7 +28,7 @@ This is a basic list of free rooms that I have completed
 - [ ] Shodan.io <https://tryhackme.com/room/shodan>
 
 # Level 2 - Tooling
-- [ ] Tmux <https://tryhackme.com/room/rptmux>
+- [👍] Tmux <https://tryhackme.com/room/rptmux>
 - [👍] Nmap <https://tryhackme.com/room/furthernmap>
 - [ ] Web Scanning <https://tryhackme.com/room/rpwebscanning>
 - [ ] Sublist3r <https://tryhackme.com/room/rpsublist3r>
